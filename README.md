@@ -13,3 +13,6 @@ No arquivo [lista_compras_separada.md](lista_compras_separada.md) foi feito um e
 No arquivo [tabela_produtos.md](tabela_produtos.md) foi feito um exercio para criar tabelas utilizando o modelo | Produto | Faber Castell | Leo&Leo |
 |--|---:|---:|
 | Lápis 12 cores | 9,06 | 5,67 | como base.
+
+## Artigo
+No arquivo [artigo.md](artigo.md) foi feito um exercicio solicitando que fosse pego um texto de pelo menos dois parágrafos e destacar duas palavras em **negrito** utilizando o ** e duas palavras em *itálico* utilizando *
