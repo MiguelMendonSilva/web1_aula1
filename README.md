@@ -5,3 +5,6 @@ No arquivo [lista_compras.md](lista_compras.md) foi feito um exercicio para gera
 
 ## Lista Ordenada
 No arquivo [lista_compra_numerada.md](lista_compra_numerada.md) foi feito um exercicio para gerar uma lista ordenada inciando em **1** pois as listas ordenadas devem começar com o número **1**.
+
+## Subtítulos 
+No arquivo [lista_compras_separada.md](lista_compras_separada.md) foi feito um exercicio para gerar uma lista de compras separadas utilizando o **##** para separa as listas.
